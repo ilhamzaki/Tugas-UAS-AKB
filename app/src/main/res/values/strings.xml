@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">noteApp10119006</string>
+    <string name="menu_open">open</string>
+    <string name="menu_close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intent_to_add_catatan_activity">intent to add catatan activity</string>
+    <string name="icon_empty">icon empty</string>
+    <string name="catatan_kosong">Catatan Kosong.</string>
+</resources>

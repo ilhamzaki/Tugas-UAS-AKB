@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913789216821",
+    "project_id": "note-app-10119006",
+    "storage_bucket": "note-app-10119006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913789216821:android:e3de5cf8e9cdd5d05e697c",
+        "android_client_info": {
+          "package_name": "com.ilhamzaki.note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913789216821-8t8pofkb4hrn09vk7c1ikgeir5q1dijo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqVt16hwhax1W12sUArYEjz59i5Oc9yfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913789216821-8t8pofkb4hrn09vk7c1ikgeir5q1dijo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
